@@ -32,7 +32,8 @@ mlflow_lab/
 │   ├── data_loader.py
 │   ├── model_trainer.py
 │   └── visualization.py
-└── requirements.txt
+├── requirements.txt
+└── output screenshots (png files)
 ```
 
 ## 🚀 Quick Start
