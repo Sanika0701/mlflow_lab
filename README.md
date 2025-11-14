@@ -18,7 +18,6 @@ This project extends traditional wine quality prediction by:
 | Model | AUC | Status |
 |-------|-----|--------|
 | **Random Forest** | **0.8993** | ✅ Best |
-| [Other models] | [TBD] | After upload |
 
 ## 🗂️ Project Structure
 ```
