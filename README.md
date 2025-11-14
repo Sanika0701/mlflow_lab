@@ -79,8 +79,14 @@ Access at: http://localhost:5001
 - F1 Score
 <img width="1200" height="600" alt="f1_score" src="https://github.com/user-attachments/assets/688bf18c-51ea-4eac-bcd4-43cdf4e766af" />
 
--
+- Precision
 <img width="1200" height="600" alt="precision" src="https://github.com/user-attachments/assets/d5b4212c-0237-4bcd-9d11-7755201947a5" />
+
+- Recall
 <img width="1200" height="600" alt="recall" src="https://github.com/user-attachments/assets/343a25e5-9db3-40bf-8ea6-5ef6b7bdbbc6" />
+
+- Accuracy
 <img width="1200" height="600" alt="accuracy" src="https://github.com/user-attachments/assets/8f1af200-042a-47cb-944a-f7455f7e7574" />
+
+- AUC
 <img width="1200" height="600" alt="auc" src="https://github.com/user-attachments/assets/77ebd8cd-f741-4ce7-a790-411a205bb9e1" />
